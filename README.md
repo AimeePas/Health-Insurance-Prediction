@@ -33,7 +33,7 @@ Libraries: pandas, seaborn, matplotlib, scikit-learn
 The dataset was analyzed using a linear regression model to predict insurance charges. Key steps included:
 <img width="1003" alt="correlation matrix" src="https://github.com/user-attachments/assets/9fadba35-5efc-406d-80d8-d1ecb28d96e2">
 
-'''python
+```python
 Code
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
@@ -43,7 +43,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 
 # Model Training
 lr = LinearRegression()
-lr.fit(X_train, y_train)'''
+lr.fit(X_train, y_train)```
 
 ### Results
 The linear regression model revealed a significant difference in predicted insurance charges between smokers and non-smokers. Specifically:
