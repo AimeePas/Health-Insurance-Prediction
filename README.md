@@ -31,7 +31,7 @@ Libraries: pandas, seaborn, matplotlib, scikit-learn
 
 ### Analysis
 The dataset was analyzed using a linear regression model to predict insurance charges. Key steps included:
-<img width="1003" alt="correlation matrix" src="https://github.com/user-attachments/assets/9fadba35-5efc-406d-80d8-d1ecb28d96e2">
+<img width="844" alt="correlation matrix" src="https://github.com/user-attachments/assets/32429ba2-7aab-4c51-9adc-15e4f0594ff7">
 
 ```python
 Code
