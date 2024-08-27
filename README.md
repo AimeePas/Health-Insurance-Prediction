@@ -4,7 +4,7 @@
 
 - [Project Overview]( #Project-Overview)
 - [Data Sources](#Data-Sources)
-- [Tools ](Tools)
+- [Tools ](Tools) 
 - [Data Cleaning and Pre-processing](#Data-Cleaning-and-Pre-processing)
 - [Analysis ](Analysis)
 - [Findings ](Findings)
@@ -43,7 +43,8 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 
 # Model Training
 lr = LinearRegression()
-lr.fit(X_train, y_train)```
+lr.fit(X_train, y_train)
+```
 
 ### Results
 The linear regression model revealed a significant difference in predicted insurance charges between smokers and non-smokers. Specifically:
