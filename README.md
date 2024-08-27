@@ -49,9 +49,11 @@ lr.fit(X_train, y_train)
 ### Results
 The linear regression model revealed a significant difference in predicted insurance charges between smokers and non-smokers. Specifically:
 
-Smokers: Predicted insurance cost was £36,751.18.
-Non-Smokers: Predicted insurance cost was £13,115.28.
-This demonstrates a strong correlation between smoking status and insurance charges, with smokers facing much higher premiums.
+Smokers: Predicted insurance cost was £36,751.18
+
+Non-Smokers: Predicted insurance cost was £13,115.28
+
+The £23,635.90 difference highlights a strong correlation between smoking status and insurance charges, with smokers facing significantly higher premiums.
 
 ### Recommendation
 
