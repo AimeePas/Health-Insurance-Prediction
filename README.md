@@ -8,7 +8,7 @@
 - [Data Cleaning and Pre-processing](#Data-Cleaning-and-Pre-processing)
 - [Analysis ](Analysis)
 - [Findings ](Findings)
--  [Recommendation ](Recommendation)
+-  [Recommendation ](Recommendations)
 - [Limitations ](Limitations)
 - [REFERENCES](REFERENCES)
 
