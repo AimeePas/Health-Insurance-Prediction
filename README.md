@@ -11,6 +11,7 @@
 -  [Recommendation ](Recommendations)
 - [Limitations ](Limitations)
 - [REFERENCES](REFERENCES)
+<img width="1003" alt="correlation matrix" src="https://github.com/user-attachments/assets/9fadba35-5efc-406d-80d8-d1ecb28d96e2">
 
 ### Project Overview
 This document details the analysis of a medical insurance dataset to predict insurance charges based on various features. The analysis highlights how different factors impact insurance costs.
