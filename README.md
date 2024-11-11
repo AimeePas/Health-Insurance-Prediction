@@ -4,12 +4,12 @@
 
 - [Project Overview]( #project-overview)
 - [Data Sources](#data-sources)
-- [Tools ](tools) 
+- [Tools ](#tools) 
 - [Data Cleaning and Pre-processing](#data-cleaning-and-pre-processing)
-- [Analysis ](analysis)
-- [Findings ](findings)
--  [Recommendation ](recommendation)
-- [Limitations ](limitations)
+- [Analysis ](#analysis)
+- [Findings ](#findings)
+-  [Recommendation ](#recommendation)
+- [Limitations ](#limitations)
 
 
 ## Project Overview
