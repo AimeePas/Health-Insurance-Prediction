@@ -10,7 +10,7 @@
 - [Findings ](Findings)
 -  [Recommendation ](Recommendations)
 - [Limitations ](Limitations)
-- [REFERENCES](REFERENCES)
+
 
 ### Project Overview
 This document details the analysis of a medical insurance dataset to predict insurance charges based on various features. The analysis highlights how different factors impact insurance costs.
