@@ -2,14 +2,14 @@
 ## Table of Contents
 
 
-- [Project Overview]( #Project-Overview)
-- [Data Sources](#Data-Sources)
-- [Tools ](Tools) 
-- [Data Cleaning and Pre-processing](#Data-Cleaning-and-Pre-processing)
-- [Analysis ](Analysis)
-- [Findings ](Findings)
--  [Recommendation ](Recommendations)
-- [Limitations ](Limitations)
+- [Project Overview]( #project-overview)
+- [Data Sources](#data-sources)
+- [Tools ](tools) 
+- [Data Cleaning and Pre-processing](#data-cleaning-and-pre-processing)
+- [Analysis ](analysis)
+- [Findings ](findings)
+-  [Recommendation ](recommendations)
+- [Limitations ](limitations)
 
 
 ### Project Overview
