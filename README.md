@@ -7,7 +7,6 @@
 - [Tools ](#tools) 
 - [Data Cleaning and Pre-processing](#data-cleaning-and-pre-processing)
 - [Analysis ](#analysis)
-- [Findings ](#findings)
 -  [Recommendation ](#recommendation)
 - [Limitations ](#limitations)
 
